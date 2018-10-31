@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F5DCED07218993F000E82756 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F5DCED06218993F000E82756 /* main.cpp */; };
+		F5DCED0F21899B1100E82756 /* week1(1031-1104).cpp in Sources */ = {isa = PBXBuildFile; fileRef = F5DCED0D21899B1100E82756 /* week1(1031-1104).cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		F5DCED03218993F000E82756 /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5DCED06218993F000E82756 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F5DCED0D21899B1100E82756 /* week1(1031-1104).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "week1(1031-1104).cpp"; sourceTree = "<group>"; };
+		F5DCED0E21899B1100E82756 /* week1(1031-1104).hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "week1(1031-1104).hpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				F5DCED06218993F000E82756 /* main.cpp */,
+				F5DCED0D21899B1100E82756 /* week1(1031-1104).cpp */,
+				F5DCED0E21899B1100E82756 /* week1(1031-1104).hpp */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -119,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5DCED07218993F000E82756 /* main.cpp in Sources */,
+				F5DCED0F21899B1100E82756 /* week1(1031-1104).cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
