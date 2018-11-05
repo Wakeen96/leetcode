@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		F5DCED07218993F000E82756 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F5DCED06218993F000E82756 /* main.cpp */; };
 		F5DCED0F21899B1100E82756 /* week1(1031-1104).cpp in Sources */ = {isa = PBXBuildFile; fileRef = F5DCED0D21899B1100E82756 /* week1(1031-1104).cpp */; };
+		F5F0BA6E21905CF300D3AE9C /* week2(1105-1111).cpp in Sources */ = {isa = PBXBuildFile; fileRef = F5F0BA6C21905CF300D3AE9C /* week2(1105-1111).cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		F5DCED06218993F000E82756 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		F5DCED0D21899B1100E82756 /* week1(1031-1104).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "week1(1031-1104).cpp"; sourceTree = "<group>"; };
 		F5DCED0E21899B1100E82756 /* week1(1031-1104).hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "week1(1031-1104).hpp"; sourceTree = "<group>"; };
+		F5F0BA6C21905CF300D3AE9C /* week2(1105-1111).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "week2(1105-1111).cpp"; sourceTree = "<group>"; };
+		F5F0BA6D21905CF300D3AE9C /* week2(1105-1111).hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "week2(1105-1111).hpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				F5DCED06218993F000E82756 /* main.cpp */,
 				F5DCED0D21899B1100E82756 /* week1(1031-1104).cpp */,
 				F5DCED0E21899B1100E82756 /* week1(1031-1104).hpp */,
+				F5F0BA6C21905CF300D3AE9C /* week2(1105-1111).cpp */,
+				F5F0BA6D21905CF300D3AE9C /* week2(1105-1111).hpp */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -124,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5DCED07218993F000E82756 /* main.cpp in Sources */,
+				F5F0BA6E21905CF300D3AE9C /* week2(1105-1111).cpp in Sources */,
 				F5DCED0F21899B1100E82756 /* week1(1031-1104).cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
